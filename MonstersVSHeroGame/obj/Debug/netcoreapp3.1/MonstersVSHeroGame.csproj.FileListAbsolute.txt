@@ -1,0 +1,60 @@
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.exe
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.runtimeconfig.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.runtimeconfig.dev.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.ADORepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.MockRepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Services.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.ADORepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.MockRepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Services.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.genruntimeconfig.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.exe
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.runtimeconfig.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.runtimeconfig.dev.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.ADORepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.MockRepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Services.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.ADORepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.MockRepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Services.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\bin\Debug\netcoreapp3.1\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame\obj\Debug\netcoreapp3.1\MonstersVSHeroGame.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonstersVSHeroGame", "MonstersVSHeroGame\MonstersVSHeroGame.csproj", "{AE50F092-2033-40F5-9EE5-5468971EF3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonstersVSHeroGame.Core", "MonstersVSHeroGame.Core\MonstersVSHeroGame.Core.csproj", "{5D7BF4E8-1154-4D91-BE31-B9D27B81A289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonstersVSHeroGame.Services", "MonstersVSHeroGame.Services\MonstersVSHeroGame.Services.csproj", "{B0E23B80-FB3F-4302-8142-7C36563B8F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonstersVSHeroGame.MockRepository", "MonstersVSHeroGame.MockRepository\MonstersVSHeroGame.MockRepository.csproj", "{E1A7D026-7B20-4693-98FE-094A97A8C511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonstersVSHeroGame.ADORepository", "MonstersVSHeroGame.ADORepository\MonstersVSHeroGame.ADORepository.csproj", "{CB357C9B-E0F4-44E7-9F6A-D0A438DFF41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE50F092-2033-40F5-9EE5-5468971EF3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE50F092-2033-40F5-9EE5-5468971EF3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE50F092-2033-40F5-9EE5-5468971EF3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE50F092-2033-40F5-9EE5-5468971EF3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7BF4E8-1154-4D91-BE31-B9D27B81A289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7BF4E8-1154-4D91-BE31-B9D27B81A289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7BF4E8-1154-4D91-BE31-B9D27B81A289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7BF4E8-1154-4D91-BE31-B9D27B81A289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E23B80-FB3F-4302-8142-7C36563B8F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E23B80-FB3F-4302-8142-7C36563B8F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E23B80-FB3F-4302-8142-7C36563B8F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E23B80-FB3F-4302-8142-7C36563B8F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A7D026-7B20-4693-98FE-094A97A8C511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A7D026-7B20-4693-98FE-094A97A8C511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A7D026-7B20-4693-98FE-094A97A8C511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A7D026-7B20-4693-98FE-094A97A8C511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB357C9B-E0F4-44E7-9F6A-D0A438DFF41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB357C9B-E0F4-44E7-9F6A-D0A438DFF41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB357C9B-E0F4-44E7-9F6A-D0A438DFF41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB357C9B-E0F4-44E7-9F6A-D0A438DFF41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67E394B-80B8-4ED7-BEDB-3093D2C31CB5}
+	EndGlobalSection
+EndGlobal

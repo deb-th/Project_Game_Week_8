@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4yFw5JUaJvjmWnGCLZ1twuGxsrvEVTFwrPXG9zxhb2gw8J8lP0/Y5wgJ6qYAgL6YFgHAHunOnqmVW5yQWb9sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deborah.tucci\\Desktop\\Academy Avanade\\Mesi 1 e 2\\Week 8\\MonstersVSHeroGame\\MonstersVSHeroGame.MockRepository\\MonstersVSHeroGame.MockRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deborah.tucci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\deborah.tucci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

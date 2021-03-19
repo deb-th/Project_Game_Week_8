@@ -1,0 +1,18 @@
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.Core\obj\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb

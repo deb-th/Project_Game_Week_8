@@ -1,0 +1,24 @@
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.ADORepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.ADORepository.pdb

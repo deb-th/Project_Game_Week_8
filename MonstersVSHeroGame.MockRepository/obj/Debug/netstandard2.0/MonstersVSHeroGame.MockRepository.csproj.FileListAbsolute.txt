@@ -1,0 +1,24 @@
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\bin\Debug\netstandard2.0\MonstersVSHeroGame.Core.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Mesi 1 e 2\Week 8\MonstersVSHeroGame\MonstersVSHeroGame.MockRepository\obj\Debug\netstandard2.0\MonstersVSHeroGame.MockRepository.pdb
